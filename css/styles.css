@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+
+.fi-span{
+    text-decoration: underline;
+}
+.n-pic {
+    border-radius: 50%;
+}
+/* fonts.google.com*/
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.75rem;
+    margin: 50px auto 0;
+    line-height: 1;
+}
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding: 10px;
+}
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+}
+
+h4 {
+    color: chocolate;
+    font-family: 'Montserrat', sans-serif;
+}
+hr {
+    border: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 5%;
+    color: #EAF6F6;
+    margin: 50px auto;
+}
+p {
+    line-height: 2;
+}
+
+
+/*classes */
+
+.skill-name{
+    text-color: #40514E ;
+}
+
+/* div-classes */
+
+.top {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+    color: #40514E;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+    /* colors= corbel, forte */
+.middle-container {
+    spacing: 30px;
+}
+
+.intro {
+    width: 40%;
+    margin: auto;
+}
+
+.profile {
+    padding: 70px;
+}
+.skills {
+    padding: 50px;
+}
+.skill-row {
+    margin: 50px auto;
+    width: 40%;
+    text-align: left;
+}
+
+.skill-image {
+    float: left;
+    margin-right: 30px;
+    width: 40%;
+    border-radius: 50%;
+}
+
+.skill-imagei {
+    float: right;
+    margin-left: 30px;
+    width: 40%;
+    border-radius: 50%;
+}
+.contact-me {
+    padding: 70px;
+}
+
+.btn {
+    background-color: #66BFBF;
+    border-radius: 8%;
+    line-height: 6;
+    padding: 10px 20px;
+    color: #EAF6F6;
+    text-size: 1.5rem;
+}
+
+.btn:hover {
+    background: #30e3cb;
+}
+
+/*
+.excel-description {
+    clear: left;
+#11cdd4
+} */
+
+
+/*bottom-container*/
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-bottom: 0;
+    padding: 30px;
+}
+
+.footer-link {
+    color: #11999E;
+    padding: 25px
+}
+
+.finish {
+    font-size: 0.8rem;
+    padding: 20px 0 0;
+    color: #EAF6F6;
+}
+
+/* Contact me page*/
+.etre {
+    margin: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}
+
+
+.heading {
+    color: Black;
+}
+
+.top-margin {
+    margin: 0;
+    margin-top: 0;
+    color: chocolate;
+}
+/*
+.Cpage-bottom-margin {
+    bottom-margin: 0;
+}
+margin-bottom: 0;
+margin: 0;
